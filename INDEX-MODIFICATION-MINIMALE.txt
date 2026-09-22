@@ -1,0 +1,25 @@
+TRSS BÉNIN – MODIFICATION MINIMALE DE index.html
+
+Ne remplace pas index.html. Ouvre le fichier existant et ajoute uniquement :
+
+1) Dans la navigation « Nos actions » (ou à côté des autres actions), ajouter :
+<a href="trss-benin-croisade-des-talents-2026.html">La Croisade des Talents 2026</a>
+
+2) Dans la section « Nos actions », ajouter une carte :
+<article class="action-card">
+  <h3>La Croisade des Talents – 6e édition 2026</h3>
+  <p>Festival culturel et citoyen organisé par TRSS Bénin à Tchaourou le 12 septembre 2026.</p>
+  <a href="trss-benin-croisade-des-talents-2026.html">Voir le projet et les résultats</a>
+</article>
+
+Si la classe action-card n’existe pas dans le site actuel, reprendre la classe utilisée par les autres cartes existantes afin de ne pas modifier le CSS global.
+
+3) Dans « En images », ajouter un lien vers la galerie :
+<a href="trss-benin-croisade-des-talents-2026.html">Galerie – La Croisade des Talents 2026</a>
+
+4) Dans « Ressources », ajouter :
+<a href="assets/croisade-des-talents-2026/trss-benin-rapport-activite-croisade-des-talents-6e-edition-2026.pdf" target="_blank" rel="noopener">Rapport d'activité – La Croisade des Talents 2026</a>
+
+5) Corriger uniquement le compteur actuel incohérent « 0+ Participants à la 4e édition… » si ce bloc est toujours présent. Ne pas modifier les autres chiffres sans vérification.
+
+IMPORTANT : ne supprimer aucune ancienne action, photo, ressource ou section du site.

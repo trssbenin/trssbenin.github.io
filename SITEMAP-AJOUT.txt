@@ -1,0 +1,12 @@
+TRSS BÉNIN – AJOUT MINIMAL AU SITEMAP
+
+Dans sitemap.xml existant, ajouter cette URL dans <urlset> sans supprimer les autres URLs :
+
+<url>
+  <loc>https://trssbenin.github.io/trss-benin-croisade-des-talents-2026.html</loc>
+  <lastmod>2026-09-22</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+Le nom de fichier, le titre, les balises meta, les titres H1/H2, les textes descriptifs, les attributs alt et les données JSON-LD contiennent volontairement « TRSS Bénin », « La Croisade des Talents », « 2026 », « Tchaourou », « Borgou » et « Bénin » afin de renforcer la compréhension sémantique de la page par les moteurs de recherche.
